@@ -1,19 +1,15 @@
-# Pay Station
+# FredBoat
 
 ## Project Abstract
-_At least one paragraph description of the overall project. Include a UML use case diagram._ 
+Fredboat is a free discord music bot that delivers high-quality music to any Discord server. It requires no configuration and can be accessed via integrated commands in the chat.
 
-![Use Case Image](StellaOwl_PayStation.png)
+![Use Case Image](NicholasGonzalez_FredBoat.png)
 
 ## Project Relevance
-_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
+This is an open source project available on Github licensed under the MIT license. Being open source, changes can be implemented by anyone via an approved pull request. As such, this bot provides a hands-on experience working with project management and version control – both of which are incredibly fundamental in the industry and necessary concepts for any CS graduate to understand.
 
 ## Conceptual Design
-_A one-paragraph description of your proposed contribution._
+There are currently 68 ticket issues that are open on the project’s official repo. While clearly too many to tackle all of them, I thought that contributing towards one feature request/bug fix would be an ideal task to undertake. From skimming the labels, I found the feature request to display author / channel name for tracks to be the most interesting and feasible to implement, although there were a few others that caught my eye.
 
 ## Background
-_A URL reference to the project._
-
-## Required Resources
-- Group members
-- Hardware and software resource required
+https://github.com/Frederikam/FredBoat
